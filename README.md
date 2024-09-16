@@ -1,34 +1,21 @@
-## Usage
+## 个性魔改美化定制版
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+功能详情请看更新日志。
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+## Docker
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+docker pull leolitaly/sweet-cloud:latest
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+预览图
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+<img width="1408" alt="截屏2024-09-10 20 18 16" src="https://github.com/user-attachments/assets/6bfd7925-f818-4bad-b122-4720d5591620">
+<img width="1408" alt="截屏2024-09-10 20 18 28" src="https://github.com/user-attachments/assets/dde85259-f528-4a2e-b14f-080c0f92022f">
+<img width="1408" alt="截屏2024-09-10 20 24 03" src="https://github.com/user-attachments/assets/44cd61d0-d779-45c6-b462-ef8be6df38a4">
+<img width="1408" alt="截屏2024-09-10 20 24 23" src="https://github.com/user-attachments/assets/c8eeaf1a-1473-4a42-a4c0-a114f09d0286">
+<img width="1408" alt="截屏2024-09-10 20 25 26" src="https://github.com/user-attachments/assets/3799ba9d-5bb2-460b-817b-2a79b61fc34a">
+<img width="1408" alt="截屏2024-09-10 20 25 48" src="https://github.com/user-attachments/assets/28dfebab-7b1c-4a55-a34f-7d7d46cd72e4">
+<img width="1408" alt="截屏2024-09-10 20 26 14" src="https://github.com/user-attachments/assets/4b7c80a0-c8f4-412e-8164-4bb6278ae336">
+<img width="1408" alt="截屏2024-09-10 20 26 48" src="https://github.com/user-attachments/assets/b4e0506a-ca23-4afc-ae0e-8e6363e1d91b">
+<img width="1408" alt="截屏2024-09-10 20 27 05" src="https://github.com/user-attachments/assets/1647c2f2-c4a2-4867-83da-4b9d44725d97">
+<img width="1408" alt="截屏2024-09-10 20 27 22" src="https://github.com/user-attachments/assets/5fd6d5cc-30dc-4166-963a-14b92e958296">
+<img width="1408" alt="截屏2024-09-10 20 27 43" src="https://github.com/user-attachments/assets/f383249b-c070-4af8-8aa9-acfa28d87c97">
